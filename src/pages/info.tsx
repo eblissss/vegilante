@@ -61,9 +61,7 @@ function info(): any {
                            flex: 1,
                         }}
                      >
-                        In this video, lorem ipsum dolor i dont know the rest
-                        lalalala in a world where therea re opposites of
-                        opposites
+                        Best video on veganism: See every argument debunked.
                      </Typography>
                   </Box>
                   <Box
@@ -84,9 +82,7 @@ function info(): any {
                            flex: 1,
                         }}
                      >
-                        In this video, lorem ipsum dolor i dont know the rest
-                        lalalala in a world where therea re opposites of
-                        opposites
+                        Learn about why we eat meat.
                      </Typography>
                      <iframe
                         width="500"
@@ -112,8 +108,8 @@ function info(): any {
                      <iframe
                         width="500"
                         height="300"
-                        src="https://www.youtube.com/embed/byTxzzztRBU"
-                        title="Every Argument Against Veganism | Ed Winters | TEDxBathUniversity"
+                        src="https://www.youtube.com/embed/ExySh6eM0q8"
+                        title="Phillip Wollen Speech"
                         frameBorder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
@@ -126,9 +122,7 @@ function info(): any {
                            flex: 1,
                         }}
                      >
-                        In this video, lorem ipsum dolor i dont know the rest
-                        lalalala in a world where therea re opposites of
-                        opposites
+                        Inspiring speech.
                      </Typography>
                   </Box>
                </Container>

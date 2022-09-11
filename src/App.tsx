@@ -45,7 +45,8 @@ function App(): any {
                            disableGutters
                            sx={{
                               backgroundColor: 'primary.dark',
-                              height: '100vh',
+                              height: 'calc(100vh - 59px)',
+                              width: '100vw',
                               margin: 0,
                               padding: '10px 0px',
                            }}
@@ -82,13 +83,13 @@ function App(): any {
                               <ArgumentsCard
                                  title={'Learn'}
                                  desc={'Videos and information.'}
-                                 to={''}
+                                 to={'info'}
                                  onClick={() => {}}
                               ></ArgumentsCard>
                               <ArgumentsCard
-                                 title={'Share'}
-                                 desc={'Vegan living tips'}
-                                 to={''}
+                                 title={'Swap'}
+                                 desc={'Use vegan options'}
+                                 to={'swap'}
                                  onClick={() => {}}
                               ></ArgumentsCard>
                            </Box>

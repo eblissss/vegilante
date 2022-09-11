@@ -71,7 +71,7 @@ export function TabBar(props: tabProps): any {
          >
             <CardMedia
                image={logo}
-               sx={{ height: '59px', width: '50px', mt: '10px' }}
+               sx={{ height: '40px', width: '40px', mt: '10px' }}
             />
          </Button>
          <OneTab tab="home" selectedTab={props.tab} />
