@@ -28,6 +28,7 @@ const pairs = {
       { name: 'Coconut Milk', desc: 'Use for richness. Non sweetened!' },
       { name: 'Rice Milk', desc: 'Use instead of skim milk. Non sweetened!' },
    ],
+   Honey: [{ name: 'Agave nectar', desc: 'Just as tasty!' }],
    'Heavy Cream': [
       {
          name: 'Coconut Milk',
