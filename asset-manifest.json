@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vegilante/static/css/main.b02d2796.css",
+    "main.js": "/vegilante/static/js/main.2bac2128.js",
+    "static/media/cow.svg": "/vegilante/static/media/cow.4b1a4aecd87982145ea73cc11bb17b73.svg",
+    "index.html": "/vegilante/index.html",
+    "main.b02d2796.css.map": "/vegilante/static/css/main.b02d2796.css.map",
+    "main.2bac2128.js.map": "/vegilante/static/js/main.2bac2128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02d2796.css",
+    "static/js/main.2bac2128.js"
+  ]
+}
