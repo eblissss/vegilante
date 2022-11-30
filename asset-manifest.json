@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vegilante/static/css/main.b02d2796.css",
-    "main.js": "/vegilante/static/js/main.11417e64.js",
-    "static/media/cow.svg": "/vegilante/static/media/cow.2a4b8352c4aae0db265928559309b361.svg",
-    "index.html": "/vegilante/index.html",
-    "main.b02d2796.css.map": "/vegilante/static/css/main.b02d2796.css.map",
-    "main.11417e64.js.map": "/vegilante/static/js/main.11417e64.js.map"
+    "main.css": "/static/css/main.b02d2796.css",
+    "main.js": "/static/js/main.bd3c8936.js",
+    "static/media/cow.svg": "/static/media/cow.2a4b8352c4aae0db265928559309b361.svg",
+    "index.html": "/index.html",
+    "main.b02d2796.css.map": "/static/css/main.b02d2796.css.map",
+    "main.bd3c8936.js.map": "/static/js/main.bd3c8936.js.map"
   },
   "entrypoints": [
     "static/css/main.b02d2796.css",
-    "static/js/main.11417e64.js"
+    "static/js/main.bd3c8936.js"
   ]
 }
